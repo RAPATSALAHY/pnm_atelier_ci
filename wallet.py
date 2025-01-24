@@ -1,7 +1,7 @@
 class Wallet:
     def __init__(self, balance):
         # Initialisation de la classe
-        self.balance = balancer
+        self.balance = balance
 
     def set_balance(self, val):
         # Ajout d'une somme à la balance
