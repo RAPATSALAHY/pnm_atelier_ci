@@ -49,3 +49,4 @@ class Wallet:
             float: The substraction of balance and val
         """
         self.balance = self.balance - val
+
